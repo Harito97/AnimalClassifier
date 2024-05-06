@@ -1,0 +1,4 @@
+Đề tài 5
+Phạm Ngọc Hải - 21002139 - Làm ý ANN
+Lương Đức Anh - 21002117 - Làm ý SoftMax Regression
+Nguyễn Văn Thắng - 21002175 - Làm ý Thay đổi hợp lý trên data
