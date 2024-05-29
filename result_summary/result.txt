@@ -4,6 +4,8 @@ ann1: 0.54
 ann2: 0.56
 ann3: 0.55
 ann4: 0.52
+ann5: 0.55
+ann6: 0.54
 svm_linear: 0.43
 svm_rbf: 0.52
 svm_poly_degree3: 0.48
